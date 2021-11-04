@@ -4,7 +4,7 @@
 
 - 🔭 Hoje eu trabalho com Back-End
 - 🌱 Estudando Java, JavaScript, Html e CSS
-- 💬 Contate-me  no Email: gustavowilkeravelar@gmail.com
+- 💬 Contate-me  Email: gustavowilkeravelar@gmail.com
 - 😄 Pronomes: Ele/dele
 
 <div align="center">

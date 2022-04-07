@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje eu trabalho com Back-End
-- 🌱 Estudando Java, JavaScript, Html e CSS
+- 🌱 Estudando Dart, JavaScript, Html e CSS
 - 💬 Contate-me  Email: gustavowilkeravelar@gmail.com
 - 😄 Pronomes: Ele/dele
 
